@@ -4,38 +4,6 @@ This is a Python project that includes various algorithms for generating and sol
 
 ## Directory Structure
 
-C:\Users\zanmb\PycharmProjects\maze
-├── .idea/
-├── __pycache__/
-├── algorithm_performance_metrics.json
-├── analysis.py
-├── generate_maze.py
-├── maze_100_100.png
-├── maze_10_10.png
-├── maze_20_20.png
-├── maze_30_30.png
-├── maze_40_40.png
-├── maze_50_50.png
-├── maze_params100_100.json
-├── maze_params10_10.json
-├── maze_params20_20.json
-├── maze_params30_30.json
-├── maze_params40_40.json
-├── maze_params50_50.json
-├── mdp_algorithms.py
-├── mdp_algorithm_performance_metrics.json
-├── mdp_analysis.py
-├── mdp_policy_iteration.py
-├── mdp_values.py
-├── mdp_value_iteration.py
-├── prepare_maze.py
-├── run_a_star.py
-├── run_bfs.py
-├── run_dfs.py
-├── search_algorithms.py
-
-## Python Files
-
 - **analysis.py**: Analyzes the generated mazes and the performance of the algorithms.
 - **generate_maze.py**: Generates mazes of various sizes.
 - **mdp_algorithms.py**: Contains Markov Decision Process (MDP) algorithms.
