@@ -1,0 +1,12 @@
+[
+    {
+        "Algorithm": "Policy Iteration",
+        "Execution Time": 0.19996023178100586,
+        "Path Length": 43
+    },
+    {
+        "Algorithm": "Value Iteration",
+        "Execution Time": 0.02662515640258789,
+        "Path Length": 39
+    }
+]
