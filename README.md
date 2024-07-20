@@ -20,7 +20,7 @@ This is a Python project that includes various algorithms for generating and sol
 ## How to Run
 
 1. **Clone the repository**:
-
+   ```bash
    git clone git@github.com:zanmark00/MazeSolver.git
    cd MazeSolver
 
@@ -28,17 +28,17 @@ This is a Python project that includes various algorithms for generating and sol
    Make sure you have Python installed. You may also need to install additional dependencies, which can be managed using pip.
 
 3. **Generate a maze**:
-
+   ```bash
    python generate_maze.py
 
 4. **Solve the maze using a specific algorithm**:
-
+   ```bash
    python run_a_star.py
 
-   Replace run_a_star.py with run_bfs.py or run_dfs.py to use different algorithms.
+Replace run_a_star.py with run_bfs.py or run_dfs.py to use different algorithms.
 
 ## Analyzing Performance
 
 You can analyze the performance of the algorithms by running:
-
+   ```bash
    python analysis.py
